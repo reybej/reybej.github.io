@@ -16,9 +16,9 @@ header {
 
 .logo {
     display: inline;
-    width: 220px; /* Adjust the width as needed */
+    width: 100px; /* Adjust the width as needed */
     height: auto;
-    margin-right: 0px; /* Add some space between the logo and the header text */
+    margin-right: 5px; /* Add some space between the logo and the header text */
 }
 
 h1 {
